@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+.navbar-custome{
+    background-color: rgb(64, 207, 255);
+    color: white;
+}
+
+.card-imgF{  
+    width: 100%;
+    min-height: 350px;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-objeto{
+    background-color: blueviolet;
+    color: orangered;
+}
