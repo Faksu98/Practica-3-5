@@ -34,6 +34,22 @@ class Tarjeta{
         `;
     }
 
+    getNombre(){
+        return this.#titulo;
+    }
+
+    getDescripcion(){
+        return this.#descripcion;
+    }
+
+    getPrecio(){
+        return this.#precio;
+    }
+    
+    getImagen(){
+        return this.#imagen;
+    }
+
 }
 
 export {Tarjeta};
